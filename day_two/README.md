@@ -84,6 +84,7 @@ $("#some-div").html(template_html);
 ##Book Manager with Handlebars
 - We will be creating a simple book manager system using handlebars to take care of the templating.
 - The API for this exercise will be `http://daretodiscover.herokuapp.com/books`.
+- The HTML is already done for you and can be found [here](book_manager_html/).
 - Here are the API endpoints:
 	- `GET /books` -> Get all books
 	- `POST /books` -> Create new book
